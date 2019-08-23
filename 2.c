@@ -1,6 +1,6 @@
 #include<stdio.h>
 main()
 {
-	printf("my name is anonymous\n");
+	printf("my name is Anonymous\n");
 }
 
